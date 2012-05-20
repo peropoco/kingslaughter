@@ -9,6 +9,8 @@ public class kingslaughter {
 		System.out.println("version 2");
 		// version 1
 		System.out.println("version 1");
+		//version final
+		System.out.println("version final");
 
 	}
 
